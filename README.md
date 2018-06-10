@@ -1,9 +1,10 @@
 # LedCube 5x5x5
 
+## Overview 
 This is a PUT student's project.
 
 
-## Requirements
+## Tools & Requirements
 * STM32F4 Discovery microcontroller;
 * 125 led diodes;
 * 25 360Ω resistors;
